@@ -1,0 +1,20 @@
+[general]
+name=Modern-callout
+qgisMinimumVersion=3.22
+description=Create modern smoked-glass HTML callouts with leader lines and variant markers in QGIS Print Layouts.
+about=Modern-callout adds a dedicated toolbar in the QGIS Print Layout Designer to insert styled smoked-glass HTML callout frames paired with native vector leader lines and variant marker icons (brand, info, success, warning, danger). Each inserted set is sequentially numbered in the Layout Items panel for clean organization, and all elements remain 100% native and editable in QGIS.
+version=2.2.1
+author=Satto
+email=meregistra@gmail.com
+tracker=https://github.com/samuelsegatto/modern-callout/issues
+repository=https://github.com/samuelsegatto/modern-callout
+homepage=https://github.com/samuelsegatto/modern-callout
+tags=layout,callout,annotation,label,html,leader line,cartography,glassmorphism
+icon=icon.png
+category=Layout
+experimental=False
+deprecated=False
+changelog=2.2.1 - Custom high-resolution cartographic glassmorphism icon included.
+    2.2.0 - Official QGIS repository metadata, GPLv2 license, bilingual support (en/pt-BR).
+    2.1.0 - Sequential item naming (modern-callout N, polilinha N, icone texto N).
+    2.0.0 - Native QGIS HTML frame, polyline leader, and label icon creation.
